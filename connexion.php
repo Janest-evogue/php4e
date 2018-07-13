@@ -49,7 +49,7 @@ if (!empty($errors)) :
 <?php
 endif;
 ?>
-<h1>Connexion</h1>
+<h1>Authentification</h1>
 
 <form method="post">
     <div class="form-group">
